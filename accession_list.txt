@@ -1,54 +1,51 @@
-+-----------+-----------------+
-| Accession | HostGenus       |
-+-----------+-----------------+
-| KJ410132  | Mycobacterium   |
-| DQ398041  | Mycobacterium   |
-| KJ028219  | Mycobacterium   |
-| KJ433973  | Mycobacterium   |
-| KJ192196  | Mycobacterium   |
-| KJ433975  | Mycobacterium   |
-| MZ150783  | Microbacterium  |
-| AP018478  | Mycobacterium   |
-| KT124227  | Streptomyces    |
-| MT024868  | Arthrobacter    |
-| MG593800  | Streptomyces    |
-| OR613473  | Arthrobacter    |
-| MH077576  | Mycobacterium   |
-| OL455898  | Mycobacterium   |
-| MN284905  | Mycobacterium   |
-| KF188414  | Mycobacterium   |
-| KY083058  | Mycobacterium   |
-| MF140397  | Arthrobacter    |
-| MZ322012  | Microbacterium  |
-| MN444873  | Mycobacterium   |
-| KM597531  | Mycobacterium   |
-| MN096366  | Mycobacterium   |
-| MF975638  | Streptomyces    |
-| JF704091  | Mycobacterium   |
-| JN699007  | Mycobacterium   |
-| MK284518  | Mycobacterium   |
-| KY083059  | Mycobacterium   |
-| MG812486  | Mycobacterium   |
-| MH509441  | Mycobacterium   |
-| PQ202989  | Microbacterium  |
-| MK279905  | Mycobacterium   |
-| MH051246  | Mycobacterium   |
-| MH697575  | Mycobacterium   |
-| MH834594  | Arthrobacter    |
-| MF668266  | Arthrobacter    |
-| PQ868986  | Curtobacterium  |
-| MK977715  | Corynebacterium |
-| JF704105  | Mycobacterium   |
-| MG757152  | Gordonia        |
-| MK359347  | Mycobacterium   |
-| EU676000  | Mycobacterium   |
-| MK450427  | Mycobacterium   |
-| MH371112  | Mycobacterium   |
-| MN813676  | Arthrobacter    |
-| MH001453  | Mycobacterium   |
-| MK061406  | Gordonia        |
-| MT897901  | Mycobacterium   |
-| MT889375  | Arthrobacter    |
-| KF416344  | Mycobacterium   |
-| OR159668  | Mycobacterium   |
-+-----------+-----------------+
+KJ410132 
+DQ398041 
+KJ028219 
+KJ433973 
+KJ192196 
+KJ433975 $ git config user.name
+
+MZ150783 
+AP018478 
+KT124227 
+MT024868 
+MG593800 
+OR613473 
+MH077576 
+OL455898 
+MN284905 
+KF188414 
+KY083058 
+MF140397 
+MZ322012 
+MN444873 
+KM597531 
+MN096366 
+MF975638 
+JF704091 
+JN699007 
+MK284518 
+KY083059 
+MG812486 
+MH509441 
+PQ202989 
+MK279905 
+MH051246 
+MH697575 
+MH834594 
+MF668266 
+PQ868986 
+MK977715 
+JF704105 
+MG757152 
+MK359347 
+EU676000 
+MK450427 
+MH371112 
+MN813676 
+MH001453 
+MK061406 
+MT897901 
+MT889375 
+KF416344 
+OR159668 
