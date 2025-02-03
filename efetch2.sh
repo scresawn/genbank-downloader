@@ -32,3 +32,6 @@ sleep 5
 done < "$accession_file"
 
 echo "Finished downloading files."
+
+
+
