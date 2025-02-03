@@ -34,12 +34,6 @@ done < "$accession_file"
 echo "Finished downloading files."
 
 file= "accession_file"
-characters_rem= "|-"
-
-for char in $characters_rem; do 
-  sed -i "s/$char//g" "$file"
-done
-
 
 
 
