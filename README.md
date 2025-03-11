@@ -1,2 +1,2 @@
 # genbank-downloader
-downloads a few GenBank files
+downloads GenBank files using accessions under accession_list.txt
